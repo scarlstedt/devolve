@@ -3,4 +3,6 @@
 
 if ( broken ) {
 	other.direction = -other.direction;
+} else {
+	other.vspeed = 0;
 }

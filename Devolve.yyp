@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "a854d9e2-faf9-4273-ad49-4be0f6c048f1",
+            "Value": {
+                "id": "c9a6e268-7c73-4820-bdf5-6f59c5e6f929",
+                "resourcePath": "fonts\\LittleFont\\LittleFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "9f268e7d-9ab0-43f2-ac31-a332a4763522",

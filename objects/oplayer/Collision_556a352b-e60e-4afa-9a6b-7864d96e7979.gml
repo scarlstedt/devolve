@@ -2,10 +2,6 @@
 // You can write your code in this editor
 
 
-if ( broken ) {
-
-	other.direction = -other.direction;
-
-} else {
-	other.vspeed = 0;
+if ( other.broken ) {
+	move(0,0);
 }
