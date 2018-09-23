@@ -4,8 +4,9 @@
 
 draw_self();
 
-CurrentY = y;
+/*CurrentY = y;
 draw_set_color(c_red);
 
 
 place_text("broken: " + string(broken), LittleFont);
+*/

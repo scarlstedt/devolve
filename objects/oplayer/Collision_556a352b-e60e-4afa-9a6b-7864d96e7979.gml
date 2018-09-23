@@ -4,4 +4,4 @@
 
 if ( other.broken ) {
 	move(0,0);
-}
+} 
