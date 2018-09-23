@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "05360e27-7365-43e9-90cc-f4f823da423f",
+            "Value": {
+                "id": "0defda95-e0de-4e5b-80a7-2b7594774ab9",
+                "resourcePath": "sounds\\atoss\\atoss.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0835c0a0-8730-4482-998f-9ad0288e93a1",
             "Value": {
                 "id": "396aaa77-52b2-456d-95cb-019120f17b69",

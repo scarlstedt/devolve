@@ -59,8 +59,8 @@ RemainingStuff = noone;
 
 			Owner.XShunt =  lengthdir_x(Kick, KickDirection)
 			Owner.YShunt =  lengthdir_y(Kick, KickDirection)
-	
-			audio_play_sound(TypeOfSound,1,false)*/
+	*/
+			audio_play_sound(TypeOfSound,1,false)
 
 		}	
 	//}
