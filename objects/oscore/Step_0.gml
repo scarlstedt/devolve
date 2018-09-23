@@ -17,6 +17,6 @@ if ( state == "won" ) {
 }
 
 if ( state == "starting" ) {
-	if ( keyboard_check_pressed(ord("X")) == true )
+	if ( keyboard_check_pressed(vk_anykey) )
 		state = "playing";
 }

@@ -6,7 +6,8 @@ CurrentY = 20;
 place_text(state,PromptFont);
 
 if ( instance_exists(oplayer)) {
-	place_text(oplayer.RocksLeft, PromptFont);
+	place_text("Rocks to throw " + string(oplayer.RocksLeft), PromptFont);
+	place_text("Bullets left " + string(ogun.BulletsLeft), PromptFont);
 }
 
 if ( state = "starting" ) {
@@ -17,7 +18,7 @@ x = view_wport[0]/ 2
 		CurrentY = y;
 		draw_set_color(c_olive);
 		place_text("Devolve", TitleFont);
-		place_text("Press x to start", PromptFont);
+		place_text("Press any key to start", PromptFont);
 } else if ( state = "won" ) {
 x = view_wport[0]/ 2
 		y = 400
