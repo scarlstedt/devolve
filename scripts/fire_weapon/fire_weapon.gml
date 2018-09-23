@@ -9,6 +9,8 @@ Shake = argument5
 Button = argument6
 
 Firing = false
+
+RemainingStuff = noone;
 	
 //if Owner.WeaponsCount > 0 {
 	
@@ -23,17 +25,20 @@ Firing = false
 			} else {
 				Firing = mouse_check_button(mb_left)
 			} 
+			RemainingStuff = BulletsLeft;
 		} else if Button = "right" {
 				if gamepad_is_connected(0) {	
 				Firing = gamepad_button_check(0,gp_shoulderr) || gamepad_button_check(0,gp_shoulderrb)
 			} else {
 				Firing = mouse_check_button(mb_right)
-			} 
+			}
+			RemainingStuff = oplayer.RocksLeft;
 		} else if Button = "always" {
 			Firing = true
+			RemainingStuff = 10;
 		}
 		
-		if Firing and TimeSinceFiring >= TimeBetweenFiring and ( BulletsLeft > 0 ) {
+		if Firing and TimeSinceFiring >= TimeBetweenFiring and ( RemainingStuff > 0 ) {
 			
 			TimeSinceFiring = 0
 

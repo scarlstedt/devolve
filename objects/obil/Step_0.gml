@@ -8,7 +8,7 @@ aimAtMe = instance_find(oplayer,0)
 		lineOfVision = abs(direction - aimDirection)
 
 
-		if IHaveAClearLineOfViewTo(oplayer) && ( lineOfVision < 45 || 360 - lineOfVision < 45 ) {
+		if IHaveAClearLineOfViewTo(oplayer) && ( lineOfVision < 75|| 360 - lineOfVision < 75 ) {
 	
 			aimDirection = point_direction(x,y,aimAtMe.x,aimAtMe.y)
 			

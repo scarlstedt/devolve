@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0228c36c-86fc-47f7-a87e-8afc593c9db5",
+            "Value": {
+                "id": "29c2dae6-fcc5-4e87-94c7-7e8f60b58741",
+                "resourcePath": "fonts\\PromptFont\\PromptFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "02d08ef0-8122-4ede-b54b-2493c703f974",
             "Value": {
                 "id": "4d7f4d66-5c2a-455b-bab6-cdb441405563",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "7011b0f2-8a95-4643-b59c-f9984d1a29b4",
+            "Value": {
+                "id": "7238a610-969f-4a1e-9f86-884780fa4193",
+                "resourcePath": "fonts\\TitleFont\\TitleFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "794b8797-c4fc-46b6-a7b9-7fcdeb504aeb",
             "Value": {
                 "id": "17f398c4-cdd1-4504-9715-29fafe082bf0",
@@ -244,6 +260,14 @@
                 "id": "ddcbdc57-27b6-410d-9169-3ab88bbdbe4a",
                 "resourcePath": "scripts\\player_movement\\player_movement.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "869ee3d5-e1fa-49f9-9558-39c0f161697e",
+            "Value": {
+                "id": "9460d4ec-0567-481a-bf94-cb5c0e8652a1",
+                "resourcePath": "sprites\\sprite17\\sprite17.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -471,6 +495,14 @@
             }
         },
         {
+            "Key": "d473e836-b3d5-4b8a-afcf-69364d7f1136",
+            "Value": {
+                "id": "303e37c7-ae6e-4669-aa07-b1ffb0595ec1",
+                "resourcePath": "objects\\orock\\orock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "daf5adbb-b761-484b-81ef-7494b6470d33",
             "Value": {
                 "id": "8d4417b5-c8f9-4687-aac4-c50e907bab16",
@@ -483,6 +515,14 @@
             "Value": {
                 "id": "c0997029-7004-44d1-957e-180bbe769744",
                 "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ed469e75-cc27-4c5c-9a79-6bfcc376667e",
+            "Value": {
+                "id": "f24a775a-caaf-4ad4-9f98-010c6d7eb752",
+                "resourcePath": "sprites\\regress1\\regress1.yy",
                 "resourceType": "GMSprite"
             }
         },
