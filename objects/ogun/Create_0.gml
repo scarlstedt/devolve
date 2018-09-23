@@ -3,3 +3,5 @@
 
 TimeSinceFiring = 0;
 TimeBetweenFiring = 1;
+
+BulletsLeft = 10;

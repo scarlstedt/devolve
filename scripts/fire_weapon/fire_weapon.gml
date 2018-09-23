@@ -33,7 +33,7 @@ Firing = false
 			Firing = true
 		}
 		
-		if Firing and TimeSinceFiring >= TimeBetweenFiring {
+		if Firing and TimeSinceFiring >= TimeBetweenFiring and ( BulletsLeft > 0 ) {
 			
 			TimeSinceFiring = 0
 
@@ -45,6 +45,8 @@ Firing = false
 			myBullet.direction = point_direction(x,y,mouse_x, mouse_y) + random_range(Spread,-Spread)
 			myBullet.image_angle = myBullet.direction
 			myBullet.speed = BulletSpeed / room_speed
+			
+			BulletsLeft--;
 
 			/*Kick = KickSpeed / room_speed
 
