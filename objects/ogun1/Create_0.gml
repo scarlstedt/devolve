@@ -5,3 +5,5 @@ TimeSinceFiring = 0;
 TimeBetweenFiring = 1;
 
 Other = noone;
+
+BulletsLeft = MAX_BULLETS;

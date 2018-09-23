@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "0b8a7a47-790b-4caa-a10d-392244fc6006",
-            "Value": {
-                "id": "4d87040b-c33d-4a40-ac5b-af9071c437e3",
-                "resourcePath": "sounds\\abang\\abang.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "13e774ee-a51e-40d7-962a-5a7c72fc345c",
             "Value": {
                 "id": "3a69c9a6-5d68-49eb-bc3b-c1a94f282fa4",
@@ -287,6 +279,14 @@
             }
         },
         {
+            "Key": "956014d4-609c-4ba0-a38e-a64b0742aed7",
+            "Value": {
+                "id": "41244ad0-691c-473d-858d-a8a1d92be139",
+                "resourcePath": "sprites\\sprite16\\sprite16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "969daa8b-dd9d-4712-a64f-591d0009c91c",
             "Value": {
                 "id": "21529a36-cf87-4485-a0f5-ebca1f2ca64e",
@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "c2f95696-917b-4524-9f9b-12abab1ea52c",
+            "Value": {
+                "id": "d13cd51e-7cad-4c88-adae-1d2cc361d891",
+                "resourcePath": "sounds\\ablip\\ablip.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a7500966-90e7-4c4d-af8d-ae5b968cbca0",
@@ -460,6 +468,14 @@
                 "id": "ccc30ed8-803c-40ee-8c30-d8af2d43310b",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa5938e9-70b2-4a5e-b96c-e90f473636d9",
+            "Value": {
+                "id": "40b0d9f7-9814-4cc0-aef3-673bb96586f1",
+                "resourcePath": "objects\\otarget\\otarget.yy",
+                "resourceType": "GMObject"
             }
         },
         {

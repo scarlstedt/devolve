@@ -4,4 +4,4 @@
 TimeSinceFiring = 0;
 TimeBetweenFiring = 1;
 
-BulletsLeft = 10;
+BulletsLeft = MAX_BULLETS;

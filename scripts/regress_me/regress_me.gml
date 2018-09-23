@@ -11,6 +11,7 @@ if ( sprite_order < max_sprite ) {
 	// Shift down to the next one in the list
 	sprite_index = sprite_list[sprite_order];
 } else {
+	oplayer.BulletsLeft = MAX_BULLETS;
 	instance_destroy();
 }
 
