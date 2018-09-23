@@ -5,13 +5,33 @@
     "name": "oscore",
     "eventList": [
         {
-            "id": "48b4b5fc-f1df-47f3-bf8f-2fa0c80e888f",
+            "id": "45b33bb5-0819-41a8-9b31-b2c03363477e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "674095d4-78f0-4da2-995d-b913611af200"
+        },
+        {
+            "id": "a239d410-73b0-4879-bc34-bab23e752778",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
+            "eventtype": 0,
+            "m_owner": "674095d4-78f0-4da2-995d-b913611af200"
+        },
+        {
+            "id": "4b238c58-cb92-49fc-aaaf-ff19623a4bc0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "674095d4-78f0-4da2-995d-b913611af200"
         }
     ],
