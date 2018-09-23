@@ -10,6 +10,9 @@ if ( sprite_order < max_sprite ) {
 
 	// Shift down to the next one in the list
 	sprite_index = sprite_list[sprite_order];
+	
+	speed = speed / 2;
+	
 } else {
 	ogun.BulletsLeft = MAX_BULLETS;
 	instance_destroy();

@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "525e881e-ddb7-4582-a222-b23f4b9c6755",
+            "Value": {
+                "id": "7b031116-bcb8-4ec4-ab55-a842143ad546",
+                "resourcePath": "objects\\obro\\obro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a99af21-51e4-45de-9cc0-6bff36ad40dd",
             "Value": {
                 "id": "6a07f7bc-dce2-499a-9c64-1922730a179a",
@@ -228,6 +236,14 @@
                 "id": "7238a610-969f-4a1e-9f86-884780fa4193",
                 "resourcePath": "fonts\\TitleFont\\TitleFont.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "7455b1f7-4c02-4156-8922-5c2f45f0f938",
+            "Value": {
+                "id": "932c4272-c1af-4292-8559-f52f2427ef6c",
+                "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -460,6 +476,14 @@
                 "id": "d13cd51e-7cad-4c88-adae-1d2cc361d891",
                 "resourcePath": "sounds\\ablip\\ablip.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c4351893-4cda-40dc-ad5a-db365b42dbac",
+            "Value": {
+                "id": "a8a4e96c-c6fc-462c-ab63-9a6f8182513a",
+                "resourcePath": "sprites\\sprite191\\sprite191.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
