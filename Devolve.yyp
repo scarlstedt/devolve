@@ -271,14 +271,6 @@
             }
         },
         {
-            "Key": "7ea91fc0-eca6-460f-9006-55d1782bb7b8",
-            "Value": {
-                "id": "ddcbdc57-27b6-410d-9169-3ab88bbdbe4a",
-                "resourcePath": "scripts\\player_movement\\player_movement.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "869ee3d5-e1fa-49f9-9558-39c0f161697e",
             "Value": {
                 "id": "9460d4ec-0567-481a-bf94-cb5c0e8652a1",
@@ -316,14 +308,6 @@
                 "id": "7a759dbc-9225-45c3-81c4-41165f5b54ef",
                 "resourcePath": "sprites\\regress\\regress.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9074416b-994b-4c75-a4c4-db257341a146",
-            "Value": {
-                "id": "bf90da32-9596-4e0f-a2a7-add9ed1a21a1",
-                "resourcePath": "objects\\obonus\\obonus.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -592,7 +576,6 @@
         }
     ],
     "script_order": [
-        "7ea91fc0-eca6-460f-9006-55d1782bb7b8",
         "9dddfdd3-25a9-48ca-a297-4ca92cf40e0a",
         "b0ba3a1b-8c06-4cb3-b27a-3f15ee4a9703",
         "3f12592c-e224-4a90-b044-ea23eec224be",
